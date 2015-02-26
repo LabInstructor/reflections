@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It pointed out which lines were different between the 2 files. 
+    This limited the lines which needed to be viewed to only a few.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will be easier to find where bugs are introduced.
+    This will save time when trying to fix bugs.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro - can choose logical places to commit which will be easy to 
+    write messages for.
+    Con - human error. Waiting too long.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I would guess that it would be difficult for something like Google Docs to track files 	together, also, this type of version control would not make sense to most people 	who are used to working with one file at a time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log lets you scroll the commits and the messages associated with them, to compare 	to historical versions of the files, use git diff plus the commit codes and then 	scroll through the changes - deletions highlighted in red and insertions 		highlighted in green
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I won’t be afraid to try something because it is easy to go back to the version that 	worked.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control for R and also to transfer things to GitHub to share.
