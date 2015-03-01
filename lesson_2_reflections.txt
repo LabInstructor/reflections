@@ -18,9 +18,13 @@ organized? How would branches help?
 	However, it looks like I can only see the HEAD that I am working on - makes it 		hard to compare. How can I use commit to compare version from different branches?
 
 How do the diagrams help you visualize the branch structure?
+	Can see where new sub-projects were started.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The master branch now contains the changes from both branches. The changes 	included are those that made the 2 branches different from the parent of both.
+
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	Automatic merges save a lot of time, doing all merges manually would be too time consuming to make git usefull.
